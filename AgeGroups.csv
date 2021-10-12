@@ -1,0 +1,5 @@
+AgeGroupID,AgeGroupName,FromAge,ToAge
+1,ChildrenWEB,0,17
+2,Adults,18,64
+3,Seniors,65,999
+4,Unknown,-1,-1
